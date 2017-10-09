@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Yelp Search Page Test Suite" >
+
+  <test name="Yelp Search Page Test">
+    <classes>
+    	<class name="Yelp.com.org.yelp.test_cases.SearchTest"/>
+    </classes>
+   </test>
+</suite>
+
+
+ 
+  
+ 

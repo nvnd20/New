@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Yelp Search Page Test Suite]">
+  <test name="Test2(failed)">
+    <parameter name="Food_Type" value="sandwiches"/>
+    <classes>
+      <class name="Yelp.com.org.yelp.test_cases.SearchTest">
+        <methods>
+          <include name="test3starRating"/>
+          <include name="test4ExpandFirstSearchResult"/>
+          <include name="test2ParameterizeFilter"/>
+          <include name="test1FindDropDownMenu"/>
+          <include name="tearDown"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- Yelp.com.org.yelp.test_cases.SearchTest -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Yelp Search Page Test Suite] -->

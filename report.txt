@@ -1,0 +1,597 @@
+-----------------------------------------
+2017-10-07T17:54:16.335
+
+connect to https://www.yelp.com/sf
+
+find Restaurants
+
+click Search button
+
+append pizza
+
+Total no. of search results: 2632
+
+Number of results in the current page: 10
+
+expand filter menu
+
+select neighborhood (Soma)
+
+select price ($$)
+
+apply filter
+
+Total no. of search results: 111
+
+Number of results in the current page: 10
+
+Delarosa 4.0 star rating
+
+Zero Zero 4.0 star rating
+
+Montesacro Pinseria-Enoteca 4.5 star rating
+
+zpizza 4.0 star rating
+
+Jersey 4.0 star rating
+
+Pazzia Restaurant & Pizzeria 4.0 star rating
+
+SOMA Restaurant & Bar 3.5 star rating
+
+Extreme Pizza - Soma District 3.0 star rating
+
+California Pizza Kitchen 3.5 star rating
+
+Firetrail Pizza 4.0 star rating
+
+Address: 37 Yerba Buena Ln
+San Francisco, CA 94103
+
+Phone: (415) 872-7363
+
+Website: delarosasf.com
+
+REVIEW 1:
+You NEED to get the meatballs okay? Need.
+
+My friend and I ate here for lunch as a we need an escape from law school treat and everything was delicious. The service is great as well. Our waiter Matthew was very accommodating. Anyway highly recommend.
+
+
+REVIEW 2:
+I had previously been to Delarosa and had really liked. So, I suggested to go there with some friends.
+
+The food this time around was also very good (we ordered two pizzas), but I was not impressed with the service. The waiters were not very attentive. We had asked for a table but where seated at one of the long bar-high tables sandwiched between other people.
+When we saw a (low) tables was available, we asked to be moved, but they said that that they were seating other people there already. Okay.
+
+Then, someone came to take our order 2 minutes after we sat down. We hadn't had a chance to look at a menu, so we asked for more time. Then that waitress never came back.
+Finally, someone else took our orders for drinks and yet another waiter finally took our food order. Nobody came by to check on drinks or the food after that. I had to flag down (yet another) waitress to get refills on our drinks.
+
+We had a total of 6 (!) people wait on us, but neither felt particularly dedicated to make sure we were taken care of. The last person to come to our table didn't come to check, if we needed anything else, but just asked if they could clear the table (when we still had a piece of pizza left to eat and half-full glasses of drinks).
+
+When the bill came, they had charged us twice for our drinks. (We had Arnold Palmer's and everywhere else I have eaten before, Arnold Palmer's were treated like sodas with free refills. I was told by the waitress that this only applies to iced tea... which I thought was a ridiculous policy that I hadn't encountered anywhere else and which nobody pointed out to us when I asked for a round of 'REFILLS'.) They did take the second round of drinks off the bill, though.
+
+
+REVIEW 3:
+Meh, it was ok. Perhaps had we not been to Italy a few months before we would have thought the food was better, but it definitely wasn't worth the price.
+
+We were seated fairly quickly in the communal style seating. This day wasn't very crowded so it wasn't like we awkwardly had to sit next to some strangers that could likely hear our conversation....over the annoyingly loud music.
+
+It took about 10 minutes to get a simple bottle of beer and root beer, but this didn't seem unlike the norm since the people who sat down just about the same time were still waiting as well.
+
+We ordered a kale caesar salad and a pizza with ham and artichoke (I forget the name). The salad was good and had a good ratio of lettuce to kale. It also wasn't overly dressed.
+
+The pizza was where we both thought it was just meh. The dough was good, but there wasn't much cheese and the sauce was somewhat bitter. The toppings kind of helped, but when you are paying $15+ for a pizza that barely feeds two people, you expect a little more.
+
+
+find Restaurants
+
+click Search button
+
+append sandwiches
+
+Total no. of search results: 6647
+
+Number of results in the current page: 10
+
+expand filter menu
+
+select neighborhood (Soma)
+
+select price ($$)
+
+apply filter
+
+Total no. of search results: 241
+
+Number of results in the current page: 10
+
+Split 3.5 star rating
+
+Split 3.5 star rating
+
+Deli Board 4.5 star rating
+
+The Educated Palate 4.0 star rating
+
+Buckhorn Grill - San Francisco 4.0 star rating
+
+Garajito 4.5 star rating
+
+Cafe Bistro 4.0 star rating
+
+Lemonade 3.5 star rating
+
+Wise Sons Jewish Delicatessen 3.5 star rating
+
+Jersey 4.0 star rating
+
+Address: 145 4th St
+San Francisco, CA 94103
+
+Phone: (415) 296-8009
+
+Website: spliteats.com
+
+REVIEW 1:
+I visited Split again to try out their sandwiches, and they were pretty good. I tried the Parm sandwich, which was basically a chicken parm sandwich with breaded chicken, cheese, and tomato sauce. It was quite tasty, and the tomato sauce was a little spicy flavor. I thought it was very good, and the only thing I would have changed about it is that I would've added more tomato sauce. The sandwich definitely wasn't dry, but it could've used some more.
+
+I still didn't like the Split fries. This time, the Parmesan wasn't melted, so it just fell off in flakes. The herbs still tasted a little funny, too.
+
+Service was pretty quick (~10 min) once we ordered, so that was definitely a  plus.
+
+
+REVIEW 2:
+Thought we would try Split instead of our usual visit to Super Duper.
+
+Convenient- Across the street from Moscone Conference Center and a few minutes walk from the Marriott Marquis Hotel.
+Food- Split Burger was meh, fries soggy and meh, crispy brussel sprouts were crisp but salty, veggie burger was tasty but crumbly.
+Service- busy Saturday afternoon but not one smile from the staff, nor thank you, nor hello to any customer as observed while waiting 10 minutes for our order.
+
+Noticed their '3rd key ingredient' in their secret recipe listed on spliteats.com was lacking today: '....Serving great food with a smile...'
+
+We will just stick with Super Duper!
+
+
+REVIEW 3:
+I wish I liked it more. My office had their classic crispy chicken sandwich catered for lunch, and it looked delicious. Unfortunately, they ran out, but I decided to try it on my own anyway.
+
+It wasn't very good! When I bit into it, I realized I wasn't going to like it very much. The meat is all chicken breast, which turned out kind of dry. The crispy-ness didn't really do it for me either... It was just like, fried panko, fell apart from the meat itself, and wasn't flavorful. The bun was also really thick. Definitely not the best crispy chicken sandwich around SOMA. The pickles were also kind of weak.
+
+
+find Food
+
+click Search button
+
+append Delivery
+
+Total no. of search results: 139
+
+Number of results in the current page: 30
+
+expand filter menu
+
+select neighborhood (Soma)
+
+select price ($$)
+
+apply filter
+
+Total no. of search results: 54
+
+Number of results in the current page: 30
+
+Lao Table 4.0 star rating
+
+Tín Vietnamese Cuisine 4.0 star rating
+
+Kama Sushi 4.0 star rating
+
+SOMA Eats 4.0 star rating
+
+Tokyo Express 3.5 star rating
+
+Extreme Pizza - Soma District 3.0 star rating
+
+The Pink Elephant Alibi 4.0 star rating
+
+North India Restaurant 4.0 star rating
+
+Elixiria 4.5 star rating
+
+Moscone Liquor & Deli 4.0 star rating
+
+La Capra 3.5 star rating
+
+Sushi Fantastic 3.0 star rating
+
+Local Kitchen & Wine Merchant 3.5 star rating
+
+Delica 4.0 star rating
+
+Sanraku 3.5 star rating
+
+The Sarap Shop 4.5 star rating
+
+Manora’s Thai Cuisine 4.0 star rating
+
+Cha-Am 3.0 star rating
+
+Fang 3.5 star rating
+
+Moya 4.0 star rating
+
+Miss SaiGon 4.0 star rating
+
+Cafe du Soleil 4.5 star rating
+
+Gaslamp Cafe 3.5 star rating
+
+Takoba SF 4.5 star rating
+
+Mo’z Cafe 3.5 star rating
+
+Shido 4.0 star rating
+
+Jersey 4.0 star rating
+
+Big Chef Tom’s Belly Burgers 4.0 star rating
+
+Frog Hollow Farm Market & Cafe 4.0 star rating
+
+Cadillac Bar & Grill 3.5 star rating
+
+Address: 149 2nd St
+San Francisco, CA 94105
+
+Phone: (415) 278-9991
+
+Website: laotablesf.com
+
+REVIEW 1:
+The food was bomb!!!!
+Lao fried rice is number one recommendation and basil chicken rice bowl!
+The pineapple Millionaire is great too!!
+
+
+REVIEW 2:
+Lao Table is a more upscale dining spot for generally authentically tasting Southeast Asian food. It's on the pricier and fancier end, but the taste matches up! I'm not one to speak for how traditionally prepared the food is but it did satisfy my Asian taste buds.
+
+This place is decorated nicely like a nice romantic dinner spot. It's really spacious, theres sky high ceilings and plenty of tables for walk in. They have reservations on Yelp if you want to book a table though.
+
+The server greeted us with lemongrass towels that are water activated, which was a nice touch. They were really attentive, so that was great considering a lot of Thai restaurants I go to are really slow. Food came out lightning fast and I wonder how they pulled that off.
+
+If you're willing to foot a $20-25+ for a Laotian/Thai entree, want nice ambiance and want to treat yourself to something nice this is a good spot. There's salads, soups, wok dishes, noodles, rice dishes, curries and grilled/steamed options to choose from. They have vegetarian options! The grilled/steamed section is $30+ so I avoided that section. It was fairly easy to stick to something under $25.
+
+Portions are generous and they come in big family style bowls. The noodles can easily be shared between two people from the looks of it.
+
+Mixed Vegetables - Wok fried farmer market vegetable + tofu + mushroom w/oyster sauce. For such a simple dish, they really did a good job with this! The sauce was light and had great flavor. The veggies were fresh and crunchy! There was a lot to go around. It comes with jasmine rice which comes in a small bowl which is the perfect size for me. The ratio of veggies and tofu to rice was ideal. I get this dish at many Thai places and this one particularly stood out to me which is a good sign. It ran for $14 on the menu so this is one of the more affordable and healthier options.
+
+I tried some of the Totally Prawns curry and was very pleased with how it tasted! The curry is rich in flavor and the prawns looked very large and juicy.
+
+For Asian food, this is generally an expensive spot to go to and not a place I would frequent. However, it's a great restaurant in my opinion for times you want to treat yourself.
+
+
+REVIEW 3:
+The place has a modern decor and clean bathrooms which is a plus, but it is on the pricier side of things even for SF.  For a group of 6 we paid around $50 each w/tax & tip. They let you make reservations so if you're coming with a large group I would recommend it since it does get packed.
+
+WHAT WE GOT: We basically did everything family style.
+
+- Lao Soda Cocktail ($13) - #watermelon. If you want something refreshing but with a twist I would get this. It tastes like juice and they give you a chunk of fresh watermelon with your drink.
+
+- Vegetarian Crispy Rolls ($8.95) - 6 half pieces - Great option if you want to share and for your vegetarian/vegan friends.
+
+- Duck wings ($16.95) - 4 pieces - Pricey for what you get, but they were tasty. Not fatty as what you think you'd get with duck.
+
+- Pineapple Fried Rice ($17.95) - Meh. Nothing too special.
+
+- Pho Duck ($22.95) - OK. Nothing too special either. You get a few pieces that you can share but it tasted a bit overcooked
+
+- Totally Prawns ($22.95) - Yum. Love me some curry with a coconut base. It's more veggie than prawns and not as rich of a broth as I'd like but it's still tasty.
+
+- Kurobota Pork Belly ($25.95) - YUM. This just melts in your mouth. Not the largest portion but it's a great one to try and share if you want to splurge on a dish
+
+SERVICE:
+
+Pretty solid in my book. We came 15 mins earlier than our reservation and they sat our group down anyways. We were also waiting for people to come before ordering but they never made us feel rushed. During out dinner they came around often to refill our waters without us even asking and helped clean up empty dishes early.
+
+-----------------------------------------
+2017-10-07T21:15:51.397
+
+connect to https://www.yelp.com/sf
+
+find Restaurants
+
+click Search button
+
+append pizza
+
+Total no. of search results: 2463
+
+Number of results in the current page: 10
+
+expand filter menu
+
+select neighborhood (Soma)
+
+select price ($$)
+
+apply filter
+
+Total no. of search results: 103
+
+Number of results in the current page: 10
+
+Zero Zero 4.0 star rating
+
+Delarosa 4.0 star rating
+
+Montesacro Pinseria-Enoteca 4.5 star rating
+
+zpizza 4.0 star rating
+
+Jersey 4.0 star rating
+
+Pazzia Restaurant & Pizzeria 4.0 star rating
+
+Extreme Pizza - Soma District 3.0 star rating
+
+Mozzeria 4.0 star rating
+
+Archive Bar & Kitchen 4.0 star rating
+
+Firetrail Pizza 4.0 star rating
+
+Address: 826 Folsom St
+San Francisco, CA 94107
+
+Phone: (415) 348-8800
+
+Website: zerozerosf.com
+
+REVIEW 1:
+Zero Zero is definitely an Italian place. What does that mean? It means that its food, while delicious, does not have healthy options. Even the salads are sad and fattening. But if you come with that expectation, you'll likely have a good time.
+
+Came here with a couple of co-workers for lunch. I had been being a little piggy as of late, so I was really hoping to reset with a salad. Alas, my "cleanse" would have to wait. The food is typical Italian, with most of it pizza and pasta. While there are salads, nothing there screams health. Instead, you can get a salad with burrata or basic romaine salad. #whereisthekale
+
+This is exactly what my group did though, getting three dishes:  Spring Pea Panzanella salad, Little Gem salad, and the Judah pizza. All of them were of good quality. I feel like a little gem salad can never be great, only average, but in that regard the dish held up. The Spring pea panzanella felt like more real greens, but still fattening with its burrata. What stole the show was the Judah. Perhaps because I know pizza is unhealthy, I care less, but this pizza was delicious. The shishito peppers were actually spicy, which I adore, and the rest of the toppings mixed well.
+
+So fattening, but so delicious. Honestly, I think my major gripe is that I came in expecting to have healthy options and didn't, which is why I wouldn't rank it top notch. But if you just want yummy Italian food, you probably aren't looking for health.
+
+
+REVIEW 2:
+Bad customer service, had to walk out of the restaurant.
+
+Place was almost empty around 3:30pm, I sit down at the bar like I was told,  then was asked to move because I had a party of 2 instead of 4. Didn't bother to eat a a place that is not accommodating to it's customers.
+
+
+REVIEW 3:
+Came here for dinner after work on a Friday. At 6 pm, it was not crowded and my party of two was seated immediately (upstairs).
+
+They do not have happy hour. I also hate when I ask if there's a happy hour and the staff person smiles and says every hour is happy hour here. You know what'd make me laugh? An actual happy hour.
+
+The avocado toast was pretty good, kind of salty. I'd eat it as a meal alone but I split it as an appetizer. We ordered the Castro pizza (meats). It was quite good, and I think the small plate + pizza order was a good amount of food for two people.
+
+Again, wish there was happy hour here. Also, I came on that one day it was 105 degrees in SF. Can't believe a venue this big didn't have central air conditioning!
+
+
+find Restaurants
+
+click Search button
+
+append sandwiches
+
+Total no. of search results: 5084
+
+Number of results in the current page: 10
+
+expand filter menu
+
+select neighborhood (Soma)
+
+select price ($$)
+
+apply filter
+
+Total no. of search results: 181
+
+Number of results in the current page: 10
+
+Deli Board 4.5 star rating
+
+Split 3.5 star rating
+
+Wise Sons Jewish Delicatessen 3.5 star rating
+
+Mo’z Cafe 3.5 star rating
+
+Wise Sons Delicatessen 4.0 star rating
+
+Split 3.5 star rating
+
+Super Duper Burgers 4.0 star rating
+
+Proper Food 4.0 star rating
+
+Prather Ranch Meat Company 4.0 star rating
+
+Garajito 4.5 star rating
+
+Address: 1058 Folsom St
+San Francisco, CA 94103
+
+Phone: (415) 552-7687
+
+Website: deliboardsf.com
+
+REVIEW 1:
+How do I eat this everyday? It took 30 min to get our sandwich during lunch and the place was PACKED. And sandwiches aren't cheap either, mine was $18. But it was damn good. Tender pastrami and brisket, cheesy and excellent pickles. I wish I lived on top of this place or next door but it's located in the cuts.
+
+It can be more efficient if they could call out names more effectively versus having the staff shout it out and walk around. So great place to try. The sandwiches are pretty unique. Almost like a hoagie but not as oily. Great for a team adventure lunch!
+
+
+REVIEW 2:
+Wow. Just wow.
+
+Ok, I admit it's pricey. But on food quality alone, this is worth it. Perhaps its because its pricey yet served with no frills that people complain? But there's plenty of restaurants that charge more with far lesser fare just because they offer an "experience".
+
+Came here on a weekday for lunch with co-workers. I'm from out of town, so usually I trust the judgement of the locals. Lots of times it bites me because they aren't foodies. Luckily, this time it didn't, as they suggested Deli Board. Description: "the best sandwich. a heart attack sandwich. a super expensive sandwich". This description is 100% accurate.
+
+Walking up at around 12:45 pm, there was a fairly short line (read: it didn't extend outside the door). We were not only able to order, but we were also able to snag a 4 person table! Apparently, for one of my co-workers, it was the first time in his 2 years visiting this location that he was able to sit inside. What can I say, I'm a good luck charm :)
+
+For food, I got the Carzle based off recommendation. It was. So. Good. The brisket was perfectly tender and just melted in my mouth (I never thought I'd describe meat this way, but I am). Would recommend, although I'm sure all the other options are just as delicious as well. To drink, I got a bottled water, which was free as they don't offer tap.
+
+Right after we sat down, the line got super long and extended past the entrance. As soon as we stood up to leave, our table was instantly snagged. Needless to say, people know good food when they see it. Even at ~$16 a sandwich, you feel like you're getting a deal... The quality is that good.
+
+
+REVIEW 3:
+Welp, nearly $19 for a sandwich after tax and tip. No chips, no drink.
+
+At that price it better be one of the best damn sandwiches I've ever eaten. Was it?
+
+Yep.
+
+Still can only stomach 4 stars though, since I now need to take out a second mortgage on my condo.
+
+
+find Food
+
+click Search button
+
+append Delivery
+
+Total no. of search results: 139
+
+Number of results in the current page: 30
+
+expand filter menu
+
+select neighborhood (Soma)
+
+select price ($$)
+
+apply filter
+
+Total no. of search results: 54
+
+Number of results in the current page: 30
+
+Lao Table 4.0 star rating
+
+Tín Vietnamese Cuisine 4.0 star rating
+
+Kama Sushi 4.0 star rating
+
+SOMA Eats 4.0 star rating
+
+Tokyo Express 3.5 star rating
+
+Extreme Pizza - Soma District 3.0 star rating
+
+The Pink Elephant Alibi 4.0 star rating
+
+North India Restaurant 4.0 star rating
+
+Elixiria 4.5 star rating
+
+Moscone Liquor & Deli 4.0 star rating
+
+La Capra 3.5 star rating
+
+Sushi Fantastic 3.0 star rating
+
+Local Kitchen & Wine Merchant 3.5 star rating
+
+Delica 4.0 star rating
+
+Sanraku 3.5 star rating
+
+The Sarap Shop 4.5 star rating
+
+Manora’s Thai Cuisine 4.0 star rating
+
+Cha-Am 3.0 star rating
+
+Fang 3.5 star rating
+
+Moya 4.0 star rating
+
+Miss SaiGon 4.0 star rating
+
+Cafe du Soleil 4.5 star rating
+
+Gaslamp Cafe 3.5 star rating
+
+Takoba SF 4.5 star rating
+
+Mo’z Cafe 3.5 star rating
+
+Shido 4.0 star rating
+
+Jersey 4.0 star rating
+
+Big Chef Tom’s Belly Burgers 4.0 star rating
+
+Frog Hollow Farm Market & Cafe 4.0 star rating
+
+Cadillac Bar & Grill 3.5 star rating
+
+Address: 149 2nd St
+San Francisco, CA 94105
+
+Phone: (415) 278-9991
+
+Website: laotablesf.com
+
+REVIEW 1:
+This restaurant was suggested to me via Facebook, and I'm so happy I checked it out further.
+
+My husband and I are recent vegetarians, and Lao Table's menu had plenty of meat and non-meat selections to choose from.
+
+We had the vegetarian Lao and Pineapple fried rice. They were both phenomenal. To start we also had their Vegetarian Crispy Rolls. Also quite delicious.
+
+Their decor was super fun, and the noise level was moderate. Overall, great service and even better food. I'd highly recommend to anyone who asks for a good spot to eat when visiting San Fransisco.
+
+
+REVIEW 2:
+Lao Table is a more upscale dining spot for generally authentically tasting Southeast Asian food. It's on the pricier and fancier end, but the taste matches up! I'm not one to speak for how traditionally prepared the food is but it did satisfy my Asian taste buds.
+
+This place is decorated nicely like a nice romantic dinner spot. It's really spacious, theres sky high ceilings and plenty of tables for walk in. They have reservations on Yelp if you want to book a table though.
+
+The server greeted us with lemongrass towels that are water activated, which was a nice touch. They were really attentive, so that was great considering a lot of Thai restaurants I go to are really slow. Food came out lightning fast and I wonder how they pulled that off.
+
+If you're willing to foot a $20-25+ for a Laotian/Thai entree, want nice ambiance and want to treat yourself to something nice this is a good spot. There's salads, soups, wok dishes, noodles, rice dishes, curries and grilled/steamed options to choose from. They have vegetarian options! The grilled/steamed section is $30+ so I avoided that section. It was fairly easy to stick to something under $25.
+
+Portions are generous and they come in big family style bowls. The noodles can easily be shared between two people from the looks of it.
+
+Mixed Vegetables - Wok fried farmer market vegetable + tofu + mushroom w/oyster sauce. For such a simple dish, they really did a good job with this! The sauce was light and had great flavor. The veggies were fresh and crunchy! There was a lot to go around. It comes with jasmine rice which comes in a small bowl which is the perfect size for me. The ratio of veggies and tofu to rice was ideal. I get this dish at many Thai places and this one particularly stood out to me which is a good sign. It ran for $14 on the menu so this is one of the more affordable and healthier options.
+
+I tried some of the Totally Prawns curry and was very pleased with how it tasted! The curry is rich in flavor and the prawns looked very large and juicy.
+
+For Asian food, this is generally an expensive spot to go to and not a place I would frequent. However, it's a great restaurant in my opinion for times you want to treat yourself.
+
+
+REVIEW 3:
+The place has a modern decor and clean bathrooms which is a plus, but it is on the pricier side of things even for SF.  For a group of 6 we paid around $50 each w/tax & tip. They let you make reservations so if you're coming with a large group I would recommend it since it does get packed.
+
+WHAT WE GOT: We basically did everything family style.
+
+- Lao Soda Cocktail ($13) - #watermelon. If you want something refreshing but with a twist I would get this. It tastes like juice and they give you a chunk of fresh watermelon with your drink.
+
+- Vegetarian Crispy Rolls ($8.95) - 6 half pieces - Great option if you want to share and for your vegetarian/vegan friends.
+
+- Duck wings ($16.95) - 4 pieces - Pricey for what you get, but they were tasty. Not fatty as what you think you'd get with duck.
+
+- Pineapple Fried Rice ($17.95) - Meh. Nothing too special.
+
+- Pho Duck ($22.95) - OK. Nothing too special either. You get a few pieces that you can share but it tasted a bit overcooked
+
+- Totally Prawns ($22.95) - Yum. Love me some curry with a coconut base. It's more veggie than prawns and not as rich of a broth as I'd like but it's still tasty.
+
+- Kurobota Pork Belly ($25.95) - YUM. This just melts in your mouth. Not the largest portion but it's a great one to try and share if you want to splurge on a dish
+
+SERVICE:
+
+Pretty solid in my book. We came 15 mins earlier than our reservation and they sat our group down anyways. We were also waiting for people to come before ordering but they never made us feel rushed. During out dinner they came around often to refill our waters without us even asking and helped clean up empty dishes early.
+
+-----------------------------------------

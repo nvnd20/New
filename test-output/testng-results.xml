@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yelp Search Page Test Suite" duration-ms="181739" started-at="2017-10-08T00:51:14Z" finished-at="2017-10-08T00:54:16Z">
+    <groups>
+    </groups>
+    <test name="Yelp Search Page Test" duration-ms="181739" started-at="2017-10-08T00:51:14Z" finished-at="2017-10-08T00:54:16Z">
+      <class name="Yelp.com.org.yelp.test_cases.SearchTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Yelp.com.org.yelp.test_cases.SearchTest@6d23017e]" name="openBrowser" is-config="true" duration-ms="4171" started-at="2017-10-07T17:51:14Z" finished-at="2017-10-07T17:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="searchPageTest(java.util.Hashtable)[pri:0, instance:Yelp.com.org.yelp.test_cases.SearchTest@6d23017e]" name="searchPageTest" duration-ms="57078" started-at="2017-10-07T17:51:18Z" data-provider="getData" finished-at="2017-10-07T17:52:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{type=pizza, category=Restaurants}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageTest -->
+        <test-method status="PASS" signature="searchPageTest(java.util.Hashtable)[pri:0, instance:Yelp.com.org.yelp.test_cases.SearchTest@6d23017e]" name="searchPageTest" duration-ms="56894" started-at="2017-10-07T17:52:15Z" data-provider="getData" finished-at="2017-10-07T17:53:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{type=sandwiches, category=Restaurants}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageTest -->
+        <test-method status="PASS" signature="searchPageTest(java.util.Hashtable)[pri:0, instance:Yelp.com.org.yelp.test_cases.SearchTest@6d23017e]" name="searchPageTest" duration-ms="63373" started-at="2017-10-07T17:53:12Z" data-provider="getData" finished-at="2017-10-07T17:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{type=Delivery, category=Food}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Yelp.com.org.yelp.test_cases.SearchTest@6d23017e]" name="tearDown" is-config="true" duration-ms="198" started-at="2017-10-07T17:54:16Z" finished-at="2017-10-07T17:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Yelp.com.org.yelp.test_cases.SearchTest -->
+    </test> <!-- Yelp Search Page Test -->
+  </suite> <!-- Yelp Search Page Test Suite -->
+</testng-results>
